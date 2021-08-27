@@ -4,5 +4,5 @@ The OperationSTART Help Desk is a place where the team creates and edits documen
 
 This documentation is organized in a particular way designed for the best experience.
 
-1. **Getting Started** is a place for the new users to OperationSTART to jumpstart their journey. This section has documentation for **students**, **parents**, **school staff**, and **nonprofits.** 
+1. **Getting Started** is a place for the new users to OperationSTART to jumpstart their journey. This section has documentation for **signing up for an account.**
 
