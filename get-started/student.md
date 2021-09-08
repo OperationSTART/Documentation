@@ -1,4 +1,8 @@
 # Get started as a student
 
-Coming Soon!
+Description Coming Soon!
+
+{% embed url="https://youtu.be/ep-Zd02TMFI" %}
+
+
 
