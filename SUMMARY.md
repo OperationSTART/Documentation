@@ -4,7 +4,8 @@
 
 ## 📌 Getting Started <a id="get-started"></a>
 
-* [Sign up for an account](get-started/sign-up-for-an-account.md)
+* [Get started as a student](get-started/student.md)
+* [Get started as a nonprofit](get-started/nonprofit.md)
 
 ## 🔨 Resources
 
