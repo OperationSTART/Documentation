@@ -10,8 +10,6 @@ To learn more about utilizing our platform as a nonprofit organization, see the 
 
 {% embed url="https://youtu.be/wRuFswuN1W8" %}
 
-
-
   
 
 
