@@ -11,3 +11,7 @@
 
 * [Keywords](resources/keywords.md)
 
+## ⚠️ Common Issues <a id="issues"></a>
+
+* [Problems receiving verification email](issues/problems-receiving-verification-email.md)
+
